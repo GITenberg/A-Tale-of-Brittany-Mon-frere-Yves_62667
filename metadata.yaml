@@ -1,0 +1,37 @@
+_repo: A-Tale-of-Brittany-Mon-frere-Yves_62667
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Baines, W. P. (William Peter)
+    alias: Baines, William Peter
+    birthdate: 1878
+    gutenberg_agent_id: '1264'
+    url: http://www.gutenberg.org/2009/agents/1264
+creator:
+  author:
+    agent_name: Loti, Pierre
+    aliases:
+    - Viaud, Julien
+    - Viaud, Louis Marie Julien
+    birthdate: 1850
+    deathdate: 1923
+    gutenberg_agent_id: '853'
+    url: http://www.gutenberg.org/2009/agents/853
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Pierre_Loti
+    - https://en.wikipedia.org/wiki/Pierre_Loti
+description: ''
+gutenberg_issued: '2020-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62667'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Brittany (France) -- Fiction'
+- GITenberg
+title: A Tale of Brittany (Mon frère Yves)
+url: http://www.gutenberg.org/ebooks/62667
